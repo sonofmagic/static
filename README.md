@@ -23,3 +23,11 @@ https://cdn.jsdelivr.net/gh/sonofmagic/static/{your_path}
 ```md
 ![](https://cdn.jsdelivr.net/gh/sonofmagic/static/logo.png)
 ```
+
+## 优势
+
+1. 免费
+
+## 劣势
+
+1. 在中国很可能被墙
