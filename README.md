@@ -52,6 +52,7 @@ https://cdn.jsdelivr.net/gh/sonofmagic/static/{your_path}
 
 然后把对应的配置，在 `Picgo` 填充即可。
 
+![](https://cdn.jsdelivr.net/gh/sonofmagic/static/v1/picgo-github-setting.png)
 
 ## 例子
 
