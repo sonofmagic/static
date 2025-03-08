@@ -73,4 +73,5 @@ https://cdn.jsdelivr.net/gh/sonofmagic/static/{your_path}
 ### 劣势
 
 1. 国内访问有可能被墙
-2. `Repo` 后期会很大，不懂 `git` 的小白不会真正删除里面的资源。
+2. `Repo` 后期会很大，假如不小心上传敏感资源，不懂 `git` 的小白不会真正删除里面的资源。
+3. 仓库整个资源可以被一键打包带走
